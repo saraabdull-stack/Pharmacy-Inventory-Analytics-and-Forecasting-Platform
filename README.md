@@ -4,6 +4,7 @@ Pharmalytics is a Python-based pharmacy inventory management dashboard. It helps
 
 The project combines pharmacy knowledge, data analysis and software development to explore how simple digital tools can support pharmacy inventory management.
 
+## 📷 Preview
 <img width="1438" height="762" alt="Screenshot 2026-09-01 at 21 01 41" src="https://github.com/user-attachments/assets/15c511e8-1eff-4689-910e-8f0fa4196b94" />
 
 <img width="1440" height="686" alt="Screenshot 2026-09-01 at 21 01 51" src="https://github.com/user-attachments/assets/6897ad19-376a-40ba-8fbc-bb05a8b8e586" />
