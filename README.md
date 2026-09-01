@@ -1,6 +1,6 @@
 # Pharmalytics 💊📊
 
-Pharmalytics is a Python-based pharmacy inventory management dashboard designed to help monitor medication stock levels, identify medicines requiring reordering, and retrieve BNF information through a live API.
+Pharmalytics is a Python-based pharmacy inventory management dashboard. It helps monitor medication stock levels, identify medicines requiring reordering, and retrieve BNF information through a live API.
 
 The project combines pharmacy knowledge, data analysis and software development to explore how simple digital tools can support pharmacy inventory management.
 
